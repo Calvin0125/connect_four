@@ -1,1 +1,2 @@
 # connect_four
+For this game the main challenge was writing the tests. In order to write tests I split the code into two files, one with the classes and methods, and another for the loop that actually allows for gameplay in the command line. All of the tests for the connect_four_classes file pass. I did not write tests for the gameplay code because it depends heavily on user input and was much easier to test in the command line. 
